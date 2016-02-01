@@ -1,0 +1,3 @@
+multi:
+help: broker hostname and port (can be specified multiple times)
+type: txt

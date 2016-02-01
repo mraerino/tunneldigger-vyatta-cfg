@@ -1,0 +1,6 @@
+help: method to use for broker selection
+type: txt
+allowed: echo "usage first random"
+val_help: usage; select broker based on use
+val_help: first; select first available broker to connect to
+val_help: random; select a random broker

@@ -1,0 +1,2 @@
+help: request broker to set downstream bandwidth limit (in kbps)
+type: u32
